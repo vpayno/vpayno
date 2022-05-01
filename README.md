@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vpayno/vpayno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+	<img src="https://raw.githubusercontent.com/clovis-bray/.github/main/images/banner.svg" alt="Victor Payno" />
+</h1>
