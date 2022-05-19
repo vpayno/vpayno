@@ -1,12 +1,10 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+
 name: Git Checks
 
 on: [pull_request]
 
 jobs:
-  block-fixup:
-    runs-on: ubuntu-latest
-
+  git:
     steps:
-    - uses: actions/checkout@v3
-    - name: Block Fixup Commit Merge
-      uses: 13rac1/block-fixup-merge-action@v2.0.0
+      - uses: Spheniscidae-Architecti/github-action-workflow-git@add_action
