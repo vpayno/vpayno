@@ -6,4 +6,5 @@ on: [pull_request]
 
 jobs:
   git:
-    - uses: Spheniscidae-Architecti/github-action-workflow-git@v1
+    steps:
+      - uses: Spheniscidae-Architecti/github-action-workflow-git@add_action
